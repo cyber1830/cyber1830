@@ -22,5 +22,6 @@ Software Engineer (2+ years experience) specializing in **Backend Development**.
 - Complete Notification Delivery System
 
 ## 📫 Contact
-- Email: **sahilsoni1418@gmail.com**
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sahil-verma-3981a11b2/)
+
 
