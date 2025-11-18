@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Sahil Verma
 
-<!--
-**cyber1830/cyber1830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer (2+ years experience) specializing in **Backend Development**.
 
-Here are some ideas to get you started:
+## 🚀 Currently Working On
+- Building a **Notification Delivery System** using **Java Spring Boot**
+- Improving backend architecture & system design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript
+- **Backend:** Spring Boot, Node.js (basics)
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, GitHub, Postman, Docker (basics)
+
+## 📌 Experience (2+ YOE)
+- Worked on production-grade backend applications
+- Built REST APIs, authentication flows, and scalable modules
+- Hands-on with SQL, debugging, and integration flows
+
+## 🎯 Current Goals
+- Strengthen caching, queues, microservices knowledge
+- Complete Notification Delivery System
+
+## 📫 Contact
+- Email: **sahilsoni1418@gmail.com**
+
