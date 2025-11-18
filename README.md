@@ -8,9 +8,9 @@ Software Engineer (2+ years experience) specializing in **Backend Development**.
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript
-- **Backend:** Spring Boot, Node.js (basics)
+- **Backend:** Spring Boot, Node.js, Express.js
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, Postman, Docker (basics)
+- **Tools:** Git, GitHub, Postman, Docker (basics), AWS
 
 ## 📌 Experience (2+ YOE)
 - Worked on production-grade backend applications
