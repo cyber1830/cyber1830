@@ -3,7 +3,7 @@
 Software Engineer (2+ years experience) specializing in **Backend Development**.
 
 ## 🚀 Currently Working On
-- Building a **Notification Delivery System** using **Java Spring Boot**
+- Building Ai Agents
 - Improving backend architecture & system design skills
 
 ## 🛠️ Tech Stack
